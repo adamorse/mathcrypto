@@ -13,9 +13,9 @@ Currently available:
 - affine cipher
 - vigenere encryption and decryption
 - coincidence counter for ciphertext-only Vigenere attack
+- frequency analysis
 
 Coming up:
-- Frequency analysis
 - Vigenere n-gram counter
 - Hall cipher
 - Feistel systems
