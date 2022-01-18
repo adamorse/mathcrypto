@@ -12,8 +12,10 @@ Currently available:
 - shift cipher
 - affine cipher
 - vigenere encryption and decryption
+- coincidence counter for ciphertext-only Vigenere attack
 
 Coming up:
-- Vigenere ciphertext-only attack utilities
+- Frequency analysis
+- Vigenere n-gram counter
 - Hall cipher
 - Feistel systems
